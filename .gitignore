@@ -6,7 +6,6 @@ __pycache__/
 dist/
 build/
 .venv/
-.env
 .DS_Store
 .pytest_cache/
 .mypy_cache/
@@ -28,3 +27,5 @@ examples/exp*
 .claude/
 *.wav
 *.jsonl
+config.bat
+node_modules
